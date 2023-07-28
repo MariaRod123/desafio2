@@ -5,7 +5,7 @@
 
 
 - Realizo un script en python utilizando el módulo base64 el cual me permitirá trabajar con la decodificación del string.
-- Utilizo el método b64decode() el cual realiza la decodificación del string dado.
+- Utilizo los métodos b64decode() y decode() que realizarán la decodificación del string dado.
 
 - Mensaje descifrado:
   
