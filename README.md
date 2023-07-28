@@ -5,10 +5,7 @@
 
 
 - Realizo un script en python utilizando el módulo base64 el cual me permitirá trabajar con la decodificación del string.
-- Utilizo el método decode() el cual realiza la decodificación del string dado.
-- Para pasar el formato al cual quiero que me traduzca utilizo utf-8
-- b64decode : método que toma como parámetro el valor del string codificado en base64
-
+- Utilizo el método b64decode() el cual realiza la decodificación del string dado.
 
 - Mensaje descifrado:
   
