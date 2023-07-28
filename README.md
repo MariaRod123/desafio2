@@ -12,13 +12,5 @@
      ![2023-07-28_16h54_52](https://github.com/MariaRod123/desafio2/assets/72228855/e6432cb1-083a-435b-8f53-8b8288fdb244)
 
 
--Ejercicio 3: Resolver el siguiente acertijo
-
-"En un rincón del código, números saltarines encontrarás, con paso dorado en secuencia se deslizarán. El desafío es seguir el salto y predecir, las próximas fracciones brillantes que habrán de venir.
-
-El comienzo es uno, en incrementos avanza, más cuidado, un error en la pista se lanza. Uno, 1.618, 2.618, 4.236 es el compás, ¿puedes prever las próximas sin entrar en fracasar?"
-
-- Solución explicada en el siguiente video: 
-
 
   
