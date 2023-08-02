@@ -1,11 +1,11 @@
 /*Resolución del ejercicio 3 : el patrón que siguen los números del array tiende a ser el producto del número áureo por el número anterior*/
 
 let array_inicial=[1, 1.618, 2.618, 4.236];
-console.log(array_inicial);
+console.log('Numeros iniciales:' + array_inicial);
 
 /* en la letra del ejercicio se nombra " paso dorado" haciendo referencia al número aúreo= phi"*/
 
-let phi= (1+ Math.sqrt(5))/2;  /*phi está definido matemáticamente a través esta expresión*/
+const phi= (1+ Math.sqrt(5))/2;  /*phi está definido matemáticamente a través esta expresión*/
 
 
 let cantNumeros_siguientes= 10; /* Cntidad de números que quiero ver despues de los iniciales */
